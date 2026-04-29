@@ -82,5 +82,5 @@ Avg Rating   = AVERAGE('BlinkIT Data'[Rating])
 
 I am a fresher Data Analyst with hands-on experience in Power BI, Excel, and DAX. I enjoy working with real business data to find patterns that drive decisions — not just building visuals, but asking the right questions behind them.
 
-📧 kritiranjana03@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](www.linkedin.com/in/kritiranjana03-833b15226) 
+📧 kritiranjana03@gmail.com 
 *Open to Data Analyst and Business Intelligence opportunities — feel free to connect.*
